@@ -1,0 +1,15 @@
+{
+  "name": "test-xyz-package",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build-xyz": "xyz-build src/sample.xyz build/index.html"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "xyz-language": "^1.0.3"
+  }
+}
